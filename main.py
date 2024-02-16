@@ -31,9 +31,7 @@ def runapp():
         else:
             # Display a message if the DataFrame is None
             print("DataFrame is None. Unable to proceed with the onboarding process.")
-            print("Pavi")
-            print("demo")
-            print("testing")
+
 
     except Exception as e:
         # Display an error message if an exception occurs

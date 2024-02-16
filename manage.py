@@ -37,4 +37,7 @@ def req_crop_year(data):
     configuration_mr_master_result = configuration_mr_master(years_list, category_list, mr_min_list, mr_max_list)
     print(configuration_mr_master_result)
     configuration_master(config_value)
+    print("test")
+    print("demo")
+    print("to do")
 
